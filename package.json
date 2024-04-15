@@ -1,0 +1,22 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "exceljs": "^4.3.0",
+    "google-auth-library": "^9.0.0",
+    "googleapis": "^126.0.1",
+    "puppeteer": "^21.1.0",
+    "sheetjs": "^2.0.0",
+    "tesseract.js": "^4.1.1",
+    "xlsx": "^0.18.5"
+  }
+}
